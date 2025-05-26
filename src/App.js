@@ -1,4 +1,4 @@
-import ResultCard from '../Components/ResultCard';
+import ResultCard from './Components/ResultCard';
 import './App.css';
 
 function App() {
